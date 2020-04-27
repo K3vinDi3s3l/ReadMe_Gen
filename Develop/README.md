@@ -27,7 +27,6 @@ none
 
 ## Github
 URL: ( https://github.com/K3vinDi3s3l/ReadMe_Gen )
-URL: ()
 
 ## Video
-URL to Google Drive; ( https://drive.google.com/drive/folders/1urU34V76SZXDKRAgqZMy-Em1HK-MDNtM )
+URL to Google Drive: ( https://drive.google.com/drive/folders/1urU34V76SZXDKRAgqZMy-Em1HK-MDNtM )
